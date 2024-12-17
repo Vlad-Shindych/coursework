@@ -1,0 +1,62 @@
+[
+    {
+        "type": "Car",
+        "vin": "1HGCM82633A123456",
+        "model": "Honda Accord",
+        "color": "Silver",
+        "seating_capacity": 5,
+        "max_speed": 210,
+        "fuel_consumption": 8.0,
+        "tank_capacity": 50
+    },
+    {
+        "type": "Car",
+        "vin": "2FTRX18W9XCA12345",
+        "model": "Ford F-150",
+        "color": "Red",
+        "seating_capacity": 5,
+        "max_speed": 200,
+        "fuel_consumption": 10.0,
+        "tank_capacity": 60
+    },
+    {
+        "type": "Car",
+        "vin": "3GNEC16Z3SG123456",
+        "model": "Chevrolet Tahoe",
+        "color": "Black",
+        "seating_capacity": 7,
+        "max_speed": 180,
+        "fuel_consumption": 12.5,
+        "tank_capacity": 75
+    },
+    {
+        "type": "Car",
+        "vin": "4T1BF1FK0EU123456",
+        "model": "Toyota Camry",
+        "color": "Blue",
+        "seating_capacity": 5,
+        "max_speed": 220,
+        "fuel_consumption": 7.5,
+        "tank_capacity": 55
+    },
+    {
+        "type": "Car",
+        "vin": "5N1AR2MN8FC123456",
+        "model": "Nissan Pathfinder",
+        "color": "White",
+        "seating_capacity": 7,
+        "max_speed": 190,
+        "fuel_consumption": 11.0,
+        "tank_capacity": 70
+    },
+    {
+        "type": "Car",
+        "vin": "123",
+        "model": "1",
+        "color": "2",
+        "seating_capacity": 3,
+        "max_speed": 1,
+        "fuel_consumption": 2.0,
+        "tank_capacity": 3
+    }
+]
